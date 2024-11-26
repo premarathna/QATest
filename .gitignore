@@ -1,0 +1,11 @@
+# .NET specific
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Playwright browser binaries
+node_modules/
+playwright/
